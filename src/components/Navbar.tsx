@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Navbar = () => {
   return (
-    <nav className="sticky h-14 z-[100] top-0 bg-blur-xl bg-transparent inset-x-0 w-full px-8 text-lg border-b rounded-b-md ">
+    <nav className="sticky h-14 z-[100] top-0 backdrop-blur-sm inset-x-0 w-full px-8 text-lg border-b rounded-b-md ">
       <MaxWidthWrapper className="">
         <div className="flex h-14 items-center justify-between">
           <div className="">

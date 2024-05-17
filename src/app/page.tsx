@@ -4,7 +4,7 @@ import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="">
       <section className="flex-grow">
         <MaxWidthWrapper className="pb-20 lg:grid lg:grid-cols-3 sm:pb-32 lg:gap-x-0 xl:gap-x-8 lg:pt-20 xl:pt-10 lg:pb-10">
           <div className="flex flex-col items-center col-span-2 px-6 lg:px-0 lg:pt-4">
