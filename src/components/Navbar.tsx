@@ -7,8 +7,8 @@ const Navbar = () => {
       <MaxWidthWrapper className="">
         <div className="flex h-14 items-center justify-between">
           <div className="">
-            <Link href="/">
-              <span className="font-semibold">CamTrack</span>
+            <Link href="/" className="font-semibold">
+            Cam<span className="text-primary">Track</span>
             </Link>
           </div>
 
