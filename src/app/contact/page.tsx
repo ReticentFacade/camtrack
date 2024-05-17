@@ -3,7 +3,7 @@ import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 
 const ContactPage = () => {
   return (
-    <div className="">
+    <div className="min-h-screen">
       <MaxWidthWrapper className="pb-20 lg:grid lg:grid-cols-2 sm:pb-32 lg:gap-x-0 xl:gap-x-8 lg:pt-20 xl:pt-10 lg:pb-10 px-20 xl:mt-10">
         <div className="flex flex-col items-center lg:items-start relative mx-auto text-center lg:text-left px-8">
           <div className="relative w-fit tracking-tight text-balance font-bold !leading-tight text-primary text-5xl md:text-6xl lg:text-7xl mt-20">
